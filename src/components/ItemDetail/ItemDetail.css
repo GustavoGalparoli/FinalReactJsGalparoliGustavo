@@ -1,0 +1,17 @@
+.contenedor_prod{
+    text-align: center;
+    max-width: 300px;
+    height: 440px;
+    padding: 10px;
+    margin: 0px auto;
+    margin-top: 40px;
+    box-shadow: 2px 6px 3px 3px #3b7874;
+}
+
+.producto{
+   color: #3b7874;
+}
+
+.foto{
+    width: 130px;
+}

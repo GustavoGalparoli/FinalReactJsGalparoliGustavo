@@ -1,0 +1,13 @@
+.menu_navbar__logo{
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.carrito{
+    color: #dddddd;
+    text-decoration: none;
+}
+
+.carrito:hover{
+    color: #54ce1c;
+}
