@@ -15,6 +15,8 @@ se genera un id de orden para el usuario y en firebase se guarda la orden con lo
 - Ruteo con **React Router Dom**
 - Backend con **Firebase**
 
+[![tienda.png](https://i.postimg.cc/fyQxBrfQ/tienda.png)][def]
+
 ## Descargar y correr el proyecto
 
 Una vez clonado o descargado el proyecto, instalar dependencias:
@@ -28,3 +30,6 @@ Correr el servidor:
 Se abre una pestaña del navegador en el puerto 3000:
 
 ### Sino copiar esta URL y pegarla en el navegador: `http://localhost:3000`
+
+
+[def]: https://postimg.cc/0MZMNZ4V
